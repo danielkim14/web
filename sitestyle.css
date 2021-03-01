@@ -18,9 +18,26 @@ nav {
     background-color: DarkOrange;
 }
 
-ul { 
-    display: flex;
-    font-family: Arial, Times New Roman;
-    font-size: 1rem;
+
+p,
+ul {
+  border: 2px solid black;
+  padding: .5em;
+  font-family: Arial, Times New Roman;
+  font-size: 1rem ;
 }
 
+.block,
+li {
+  border: 2px solid black;
+  padding: .5em;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+.block {
+  display: block;
+}      
