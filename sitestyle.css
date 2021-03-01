@@ -3,7 +3,7 @@ background-color: crimson;
 }
 
 p {
-background-color: yellow;
+background-color: Gold;
 font-size: 2rem;
 font-family: Georgia, Times New Roman;
 }
@@ -16,11 +16,13 @@ font-family: Georgia, Times New Roman;
 nav {
     border-bottom: 1px solid black;
     display: block;
-    font-family: Arial;
-    font-size: 2rem;
-    background-color: tangerine;
+    background-color: DarkOrange;
 }
 
+ul { 
+    font-family: Arial, Times New Roman;
+    font-size: 3rem;
+}
 
 li {
 float: left;
