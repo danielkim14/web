@@ -15,23 +15,12 @@ font-family: Georgia, Times New Roman;
 
 nav {
     border-bottom: 1px solid black;
+    display: block;
 }
 
-.crumbs ol {
-    list-style-type: none;
-    padding-left: 0;
+li {
+float: left;
+font-family: Arial;
+font-size: 2rem;
+background-color: tangerine;
 }
-
-.crumb {
-    display: inline-block;
-}
-
-.crumb a::after {
-    display: inline-block;
-    color: #000;
-    content: '>';
-    font-size: 80%;
-    font-weight: bold;
-    padding: 0 3px;
-}
-
