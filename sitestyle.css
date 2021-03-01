@@ -16,11 +16,12 @@ font-family: Georgia, Times New Roman;
 nav {
     border-bottom: 1px solid black;
     display: block;
+    font-family: Arial;
+    font-size: 2rem;
+    background-color: tangerine;
 }
+
 
 li {
 float: left;
-font-family: Arial;
-font-size: 2rem;
-background-color: tangerine;
 }
