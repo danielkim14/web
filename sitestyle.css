@@ -15,15 +15,12 @@ font-family: Georgia, Times New Roman;
 
 nav {
     border-bottom: 1px solid black;
-    display: block;
     background-color: DarkOrange;
 }
 
 ul { 
+    display: flex;
     font-family: Arial, Times New Roman;
     font-size: 1rem;
 }
 
-li {
-float: left;
-}
