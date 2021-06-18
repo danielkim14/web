@@ -13,6 +13,8 @@ font-size: 3rem;
 font-family: Georgia, Times New Roman;'
 }
 
-
-
-
+p,
+ul {
+  font-family: Arial, Times New Roman;
+  font-size: 2rem ;
+}
